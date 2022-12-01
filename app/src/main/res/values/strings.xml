@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB8_KRE17</string>
+    <string name="zagruzka">загрузка</string>
+    <string name="obnovit">обновить</string>
+    <string name="oshibka">ошибка</string>
+    <string name="net_dannikh">нет данных</string>
+</resources>

@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="#203b5b"
-    tools:context=".MainActivity">
+    tools:context=".Activity2">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -16,27 +16,17 @@
         android:layout_weight="1">
 
         <LinearLayout
+            android:id="@+id/linearLayout2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
-
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="@string/zagruzka"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:textColor="#e3ff1a" />
-        </LinearLayout>
+            android:orientation="vertical"></LinearLayout>
     </ScrollView>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:text="@string/obnovit"/>
+        android:text="@string/obnovit"
+        android:layout_weight="0"/>
 
 </LinearLayout>

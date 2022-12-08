@@ -1,1 +1,11 @@
-<img src="_MY_PICTURES/2022-12-01_134205_part1.png" width=33% align="middle"><img src="_MY_PICTURES/Screenshot_20221201_133134.png" width=34% align="middle"><img src="_MY_PICTURES/Screenshot_20221201_133542.png" width=33% align="middle"><img src="_MY_PICTURES/2022-12-01_134205_part2.png" width=33% align="middle"><img src="_MY_PICTURES/Screenshot_20221201_133148.png" width=34% align="middle"><img src="_MY_PICTURES/Screenshot_20221201_133551.png" width=33% align="middle">
+![](_MY_PICTURES/Screenshot_20221208_151421.png)|![](_MY_PICTURES/Screenshot_20221208_151433.png)|![](_MY_PICTURES/Screenshot_20221208_151441.png)|![](_MY_PICTURES/Screenshot_20221208_151449.png)
+-|-|-|-
+
+<details><summary>дополнительные скриншоты</summary>
+
+![](_MY_PICTURES/Screenshot_20221208_151516.png)|![](_MY_PICTURES/Screenshot_20221208_151533.png)|![](_MY_PICTURES/Screenshot_20221208_151544.png)|![](_MY_PICTURES/Screenshot_20221208_151550.png)
+-|-|-|-
+![](_MY_PICTURES/Screenshot_20221208_151603.png)|![](_MY_PICTURES/Screenshot_20221208_151609.png)|![](_MY_PICTURES/Screenshot_20221208_151623.png)|![](_MY_PICTURES/Screenshot_20221208_151631.png)
+![](_MY_PICTURES/Screenshot_20221208_151637.png)|![](_MY_PICTURES/Screenshot_20221208_151654.png)|![](_MY_PICTURES/Screenshot_20221208_151710.png)|![](_MY_PICTURES/Screenshot_20221208_151719.png)
+![](_MY_PICTURES/Screenshot_20221208_151728.png)
+</details>
